@@ -7,23 +7,49 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleW16bXg1azF0bXN5ZWg0bXNidmN3b3Z5cmZ6bms1bWsyY296ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R9dHM/L1R1tvI9svkIWwpVYr/giphy.gif" width="150px" alt="Profile Icon"/>
+      <img src="./□.jfif" width="150px" alt="Profile Icon"/>
     </td>
     <td width="70%">
-      <h3>¡Hola! Soy Rony 👋</h3>
-      <p>Soy estudiante de Desarrollo de Software, enfocado en dominar la Programación Orientada a Objetos (Java) y la gestión de Bases de Datos Relacionales (SQL Server).</p>
-      <p>Me apasiona resolver problemas mediante código limpio, diseñar topologías de red eficientes en Cisco Packet Tracer y personalizar entornos de desarrollo para optimizar el flujo de trabajo.</p>
+      <h3>¡Hola! Soy Rony, pero mis amigos me dicen Rony 😄</h3>
+      <p>Estudiante de Desarrollo de Software (o de Sistemas en alguna otra vida 😅). Si existiera un nivel por debajo de Semi-Junior, probablemente yo estaría justo en el medio. 🐣</p>
+      <p>Soy un <b>optimista por aprender</b> y tengo la <b>creatividad en nivel Pro</b>. Me encanta buscar soluciones ingeniosas y no rendirme ante el código.</p>
     </td>
   </tr>
 </table>
 
-## 🚀 Top Projects
+## 📊 My Stats & Skills
 
-* ` PROYECTO 1 ` **- Sistema de Gestión:** Aplicación construida en Java aplicando POO y persistencia de datos.
-* ` PROYECTO 2 ` **- Red de Campus Integrada:** Diseño e infraestructura de conectividad corporativa simulada eficientemente.
-* ` PROYECTO 3 ` **- Portafolio Académico:** Repositorio centralizado con laboratorios, ejercicios y proyectos integradores.
+**● Programación Básica** `████████░░` 80%
+
+**● Programación de Objetos (Java)** `██████░░░░` 60%
+
+**● Comprendiendo BBDD / SQL** `██░░░░░░░░` 20% (🔥 ¡Bajando para aprender mejor!)
+
+**● Nivel de Redes** `██░░░░░░░░` 20%
+
+---
+
+## 🚀 Proyectos que recuerdo haber hecho en mi vida 😂
+
+* ` PROYECTO 1 ` **- Trencito en C:** Muy Básico puro Printf
+* ` PROYECTO 2 ` **- Una calculadora:** Hecho en Visual Basic
+* ` PROYECTO 3 ` **- Una pagina en wix XD**
+* ` PROYECTO 4 ` **- ZafariLand:** Hecho con Java
+* ` PROYECTO 5 ` **- Gice:** Hecho en Java y POO (No se había terminado)
+* ` PROYECTO 6 ` **- GuestBodega:** Hecho en Python (de los mejores que hice)
+
+⚠️ *Casi todos no están subidos / Estado LostMedia ⚠️
+
+---
 
 ## 🤝 Connect
+
+<p align="center">
+  <img src="https://img.shields.io/badge/---En%20Desarrollo---🚧-2c3e50?style=for-the-badge&labelColor=bf616a" alt="En Desarrollo"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📢---ANUNCIOS%20DE%20LASER---📢-2c3e50?style=for-the-badge&labelColor=ebcb8b" alt="Anuncios"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/R0nNy-Java"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>    
@@ -31,8 +57,19 @@
   <a href="mailto:TU_CORREO@GMAIL.COM"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-## 📈 Contribution
+## 📈 Motivation Contribution
+
+Aquí está el historial de mi motivación 😤, con todos sus picos y valles:
+
+**📊 2024:** Picos altos y bajos (Una montaña rusa).
+**📉 2025:** Inicio con picos altos, luego muy bajos (¡Junio ➡️ Octubre fue duro!). Bajos de Septiembre ➡️ Noviembre.
+**⚡ 2026 (Actualmente):** Altos hasta Enero ➡️ Bajos desde Enero ➡️ Mayo. ¡Y actualmente MUY ALTOS! 🚀
+**💥 2026 (Próximamente):** De nuevo altos desde Noviembre ➡️ Bajos de ... (¡Ya veremos!).
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0nNy-Java&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%">
+</p>
+
+<p align="center">
+  <b>¡Aunnn !! ¡No me RIndoooo !! 💪🔥</b>
 </p>
