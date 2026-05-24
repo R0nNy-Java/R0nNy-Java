@@ -59,17 +59,13 @@
 
 ## 📈 Motivation Contribution
 
-Aquí está el historial de mi motivación 😤, con todos sus picos y valles:
+Aquí está el historial 😤, con todos sus picos y valles:
 
-**📊 2024:** Picos altos y bajos (Una montaña rusa).
-**📉 2025:** Inicio con picos altos, luego muy bajos (¡Junio ➡️ Octubre fue duro!). Bajos de Septiembre ➡️ Noviembre.
-**⚡ 2026 (Actualmente):** Altos hasta Enero ➡️ Bajos desde Enero ➡️ Mayo. ¡Y actualmente MUY ALTOS! 🚀
-**💥 2026 (Próximamente):** De nuevo altos desde Noviembre ➡️ Bajos de ... (¡Ya veremos!).
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0nNy-Java&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%">
 </p>
 
 <p align="center">
-  <b>¡Aunnn !! ¡No me RIndoooo !! 💪🔥</b>
+  <b>¡Aunnn !! ¡No me Rindoooo !! 💪🔥</b>
 </p>
