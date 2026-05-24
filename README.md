@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/a1/06/8b/a1068b51879381cb7b32df63d3e55945.jpg" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/a1/06/8b/a1068b51879381cb7b32df63d3e55945.jpg" alt="Banner" width="100%" style="height: 250px; object-fit: cover; object-position: center 30%; border-radius: 6px;">
 </p>
 
 ## 🧠 Know About Me
