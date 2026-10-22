@@ -21,22 +21,25 @@
 
 **● Programación Básica** `████████░░` 80%
 
-**● Programación de Objetos (Java)** `██████░░░░` 60%
+**● Programación de Objetos (Java)** `████████░░` 80%
 
-**● Comprendiendo BBDD / SQL** `██░░░░░░░░` 20% (🔥 ¡Bajando para aprender mejor!)
+**● Comprendiendo BBDD / SQL** `██████░░░░` 60%
 
-**● Nivel de Redes** `██░░░░░░░░` 20%
+**● Programación Web** `██████░░░░` 60% (¡Mejorando este semestre!)
 
----
+**● Nivel de Redes** `████░░░░░░` 40%
+
+**● Diseño UX** `█░░░░░░░░░` 10%
 
 ## 🚀 Proyectos que recuerdo haber hecho en mi vida 😂
 
-* ` PROYECTO 1 ` **- Trencito en C:** Muy Básico puro Printf
-* ` PROYECTO 2 ` **- Una calculadora:** Hecho en Visual Basic
-* ` PROYECTO 3 ` **- Una pagina en wix XD**
-* ` PROYECTO 4 ` **- ZafariLand:** Hecho con Java
-* ` PROYECTO 5 ` **- Gice:** Hecho en Java y POO (No se había terminado)
-* ` PROYECTO 6 ` **- GuestBodega:** Hecho en Python (de los mejores que hice)
+- ` PROYECTO 1 ` **- Trencito en C:** Muy Básico puro Printf
+- ` PROYECTO 2 ` **- Una calculadora:** Hecho en Visual Basic
+- ` PROYECTO 3 ` **- Una pagina en wix XD**
+- ` PROYECTO 4 ` **- ZafariLand:** Hecho con Java
+- ` PROYECTO 5 ` **- Gice:** Hecho en Java y POO (No se había terminado)
+- ` PROYECTO 6 ` **- GuestBodega:** Hecho en Python (de los mejores que hice)
+- ` PROYECTO 7 ` **- Nursologic:** Enfocado a enfermería, el más completo
 
 ⚠️ *Casi todos no están subidos / Estado LostMedia ⚠️
 
@@ -61,9 +64,10 @@
 
 Aquí está el historial 😤, con todos sus picos y valles:
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0nNy-Java&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%">
+  <a href="https://github.com/R0nNy-Java">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=R0nNy-Java&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph Rony" width="100%" />
+  </a>
 </p>
 
 <p align="center">
